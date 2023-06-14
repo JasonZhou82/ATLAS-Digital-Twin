@@ -10,7 +10,7 @@ The geometry is built by defining a set of GeoModel nodes (Materials, Shapes, Ph
 
 The resulting GeoModel tree is then persistified into an [SQLite file](https://www.sqlite.org/index.html) by the use of a custom DB schema.
 
-## Aim of this project
+## Aim of the project
 
 This repository hosts the tool to export the GeoModel tree representation stored in the ATLAS-specific SQLite file into the representation used in the [USD 3D format](https://openusd.org/).
 
