@@ -23,6 +23,7 @@ It also lets researches leverage the power of GPU cards to handle geometry data.
 * ...
 * Ilija Vukotic, University of Chicago, CERN/ATLAS Experiment
 * Riccardo Maria BIANCHI, University of Pittsburgh, CERN/ATLAS Experiment
+* Jesse Abney, TRIUMF Communications, program management
 * ...
 
 
